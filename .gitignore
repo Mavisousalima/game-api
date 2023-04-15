@@ -198,3 +198,6 @@ local_settings.py
 !**/migrations/*.pyz
 !**/migrations/*.pyw
 
+vscode
+.vscode
+.vscode/
